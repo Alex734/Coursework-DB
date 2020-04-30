@@ -1,0 +1,22 @@
+body {
+    width: 90%;
+    margin: 10px 5%;
+}
+
+.section{
+    float: left;
+    width: 32%;
+    height: 500px;
+    padding: 0.5%;
+}
+
+header, footer{
+    background-color: silver;
+    border: 1px solid black;
+    clear: left;
+    height: 80px;
+}
+
+div{
+    border: 1px solid black;
+}

@@ -1,0 +1,11 @@
+.floatright{
+    float: right;
+    margin: 0 0 10px 10px;
+    clear: right;
+    width: 100px;
+    height: 100px;
+}
+
+.p{
+    margin-top: 0;
+}

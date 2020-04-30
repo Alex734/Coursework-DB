@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 100%;
+    background-color: salmon;
+}
+
+ul li{
+    display: inline;
+    
+}
+
+ul li button{
+    background-color: burlywood;
+    border: 2px;
+    border-color: red;
+    
+}
+
+ul li:active{
+    float: right;
+    padding: 5px;
+    background-color: rgb(128, 84, 230);
+}
